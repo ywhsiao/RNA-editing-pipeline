@@ -14,6 +14,7 @@ This pipeline not only quantifies transcriptional and RNA-editing changes, but a
 - Alignment: Cleaned reads were aligned to the Homo sapiens reference genome (hg38) using STAR, generating:
 
 - Genome-aligned BAMs (Aligned.sortedByCoord.out.bam)
+
 - Transcriptome-aligned BAMs (Aligned.toTranscriptome.out.bam)
 
 2. Gene Expression Quantification
