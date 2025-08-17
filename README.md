@@ -90,7 +90,7 @@ This pipeline not only quantifies transcriptional and RNA-editing changes, but a
 
 - Allows integration of expression and editing profiles to explore whether RNA-editing–associated genes cluster within specific pathways.
 
-![Figure 1: Pipeline overview](png/A-to-I_RNA-editing_pipeline.png)
+![Figure 1: Pipeline overview](png/A-to-I_RNA-editing_pipeline)
 ## Figure 1. Comprehensive RNA-editing Analysis Pipeline
  
   
