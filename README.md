@@ -2,7 +2,8 @@
 
 This pipeline integrates bulk RNA-seq preprocessing, alignment, expression quantification, differential expression analysis, A-to-I RNA-editing profiling, and functional annotation.
 
-**Highlights**
+**Highlight of this pipeline**
+
 This pipeline not only quantifies transcriptional and RNA-editing changes, but also interprets them in a biological context by mapping results onto pathways and gene sets (via GSEA/GSVA).
 
 1. Preprocessing and Alignment
