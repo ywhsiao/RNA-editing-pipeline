@@ -6,6 +6,9 @@ This pipeline integrates bulk RNA-seq preprocessing, alignment, expression quant
 
 This pipeline not only quantifies transcriptional and RNA-editing changes, but also interprets them in a biological context by mapping results onto pathways and gene sets (via GSEA/GSVA).
 
+![Preview](https://raw.githubusercontent.com/ywhsiao/RNA-editing-pipeline/master/png/potential_data_vis.png)
+## Figure 1. Potential downstream analysis
+
 1. Preprocessing and Alignment
 
 - Input: Paired-end FASTQ files.
@@ -90,7 +93,5 @@ This pipeline not only quantifies transcriptional and RNA-editing changes, but a
 
 - Allows integration of expression and editing profiles to explore whether RNA-editing–associated genes cluster within specific pathways.
 
-![Preview](https://raw.githubusercontent.com/ywhsiao/RNA-editing-pipeline/master/png/potential_data_vis.png)
-## Figure 1. Potential downstream analysis
  
   
